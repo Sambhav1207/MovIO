@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A Movie Recommendation System
+Author: SAMBHAV GUPTA
+Author-email: guptasambhav1207@gmail.com
+Requires-Python: >=3.7
+Requires-Dist: streamlit
+
+MovIO
